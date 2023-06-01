@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<a href="wiki/About-me.html">About me</a>
+<a href="wiki">About me</a>
 <!--
 **AxelDuran/AxelDuran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
